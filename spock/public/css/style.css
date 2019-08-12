@@ -1,0 +1,56 @@
+.field {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.field img {
+    width: 156px;
+    height: 156px;
+}
+
+.choicefg {}
+
+nav.nav-center ul {
+    text-align: center;
+}
+nav.nav-center ul li {
+    display: inline;
+    float: none;
+    margin-left: 10px;
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 24px;
+}
+
+nav.nav-center ul li a {
+    display: inline-block;
+}
+
+.btn {
+    margin: 10px;
+}
+
+p {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 17px;
+    margin: 0px;
+}
+
+a h3 {
+    font-family: 'Do Hyeon', sans-serif;
+    font-size: 24px;
+    font-weight: 500px;
+
+    display: none;
+    margin: 0;
+    text-align: left;
+    color: #009fff;
+}
+
+hr {
+    display: none;
+}
+
+.button {
+    text-align: center;
+}
